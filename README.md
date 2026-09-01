@@ -15,20 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- Activity Graph (Custom Theme) -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Pasindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduDilmin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pasindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=PasinduDilmin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- Top Languages -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PasinduDilmin&theme=dark&langs_count=12&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[!["Pasindu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PasinduDilmin)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PasinduDilmin&theme=dark&langs_count=12&show_icons=true&locale=en&layout=compact" alt="PasinduDilmin" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=PasinduDilmin&theme=onedark" alt="PasinduDilmin" /></a> </p>
-
-
+<!-- Profile Trophies -->
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=PasinduDilmin&theme=onedark" alt="Pasindu Dilmin's Trophies" />
+  </a>
+</p>
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
