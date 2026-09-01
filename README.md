@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Pasindu Dilmin 👋</h1>
-  <p><strong>Electronics & Information Technology Undergraduate | Full-Stack & Embedded Systems Developer</strong></p>
+  <p><strong>Electronics & Information Technology | Full-Stack & Embedded Systems Developer</strong></p>
 
   <p>
     <a href="mailto:pdilmin40@gmail.com"><img src="https://img.shields.io/badge/Email-pdilmin40%40gmail.com-blue?style=flat&logo=gmail" alt="Email" /></a>
