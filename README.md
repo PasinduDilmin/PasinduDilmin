@@ -1,4 +1,4 @@
-## Hi there 👋 I am Pasindu
+## Hi there 👋 I am Pasindu Dimin
 
 <!--
 **PasinduDilmin/PasinduDilmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pasindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=PasinduDilmin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+[!["Pasindu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PasinduDilmin)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PasinduDilmin&theme=dark&langs_count=12&show_icons=true&locale=en&layout=compact" alt="PasinduDilmin" /></p>
