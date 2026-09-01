@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Pursuing a **BSc in Physics & Electronics** at the *University of Kelaniya* and a **Bachelor of Information Technology** at the *University of Moratuwa*[cite: 1].
-* 💼 IT Intern at **Sri Lanka Technology Campus (SLTC)**[cite: 1].
-* 🔬 Passionate about bridging the gap between **Hardware (IoT / Embedded Systems)** and **Software (Full-Stack Web & Mobile Applications)**[cite: 1].
-* 🛠️ Currently building with the **MERN Stack** (MongoDB, Express.js, React, Node.js) and working on **IoT/Embedded Solutions** using ESP32 & Arduino[cite: 1].
+* 🎓 Pursuing a **BSc in Physics & Electronics** at the *University of Kelaniya* and a **Bachelor of Information Technology** at the *University of Moratuwa*.
+* 💼 IT Intern at **Sri Lanka Technology Campus (SLTC)**.
+* 🔬 Passionate about bridging the gap between **Hardware (IoT / Embedded Systems)** and **Software (Full-Stack Web & Mobile Applications)**.
+* 🛠️ Currently building with the **MERN Stack** (MongoDB, Express.js, React, Node.js) and working on **IoT/Embedded Solutions** using ESP32 & Arduino.
 
 ---
 
@@ -38,28 +38,10 @@
 
 ### 🚀 Highlighted Projects
 
-* **Web-Based Photography Booking System Service:** Full-stack management platform for photography sessions, portfolios, and client scheduling built using the **MERN Stack**[cite: 1].
-* **Automated Spin Coater with Integrated Monitoring:** Research project integrating **ESP32** and **Arduino IDE** for real-time RPM and temperature monitoring[cite: 1].
-* **E-Commerce & Management Systems:** Web applications built with **PHP, MySQL, HTML/CSS, and JavaScript**[cite: 1].
-* **NewSY (Newspaper Ordering System):** Location-tracing delivery mobile app developed in **Android Studio**[cite: 1].
+* **Web-Based Photography Booking System Service:** Full-stack management platform for photography sessions, portfolios, and client scheduling built using the **MERN Stack**.
+* **Automated Spin Coater with Integrated Monitoring:** Research project integrating **ESP32** and **Arduino IDE** for real-time RPM and temperature monitoring.
+* **E-Commerce & Management Systems:** Web applications built with **PHP, MySQL, HTML/CSS, and JavaScript**.
+* **NewSY (Newspaper Ordering System):** Location-tracing delivery mobile app developed in **Android Studio**.
 
 ---
 
-### 🏆 GitHub Analytics & Trophies
-
-<!-- Profile Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PasinduDilmin&theme=onedark&no-frame=false&margin-w=4" alt="Pasindu Dilmin's Trophies" />
-  </a>
-</p>
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PasinduDilmin&theme=dark&langs_count=8&layout=compact&hide_border=true" alt="Top Languages" />
-  <br /><br />
-  <!-- Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Pasindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PasinduDilmin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
-</div>
