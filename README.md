@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 Pursuing a **BSc in Physics & Electronics** at the *University of Kelaniya* and a **Bachelor of Information Technology** at the *University of Moratuwa*.
-* 💼 IT Intern at **Sri Lanka Technology Campus (SLTC)**.
+* 💼 Web Administrator at **Sri Lanka Technology Campus (SLTC)**.
 * 🔬 Passionate about bridging the gap between **Hardware (IoT / Embedded Systems)** and **Software (Full-Stack Web & Mobile Applications)**.
 * 🛠️ Currently building with the **MERN Stack** (MongoDB, Express.js, React, Node.js) and working on **IoT/Embedded Solutions** using ESP32 & Arduino.
 
